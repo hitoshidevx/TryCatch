@@ -1,0 +1,13 @@
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula13TryCatch\bin\Debug\netcoreapp3.1\Aula13TryCatch.exe
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula13TryCatch\bin\Debug\netcoreapp3.1\Aula13TryCatch.deps.json
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula13TryCatch\bin\Debug\netcoreapp3.1\Aula13TryCatch.runtimeconfig.json
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula13TryCatch\bin\Debug\netcoreapp3.1\Aula13TryCatch.runtimeconfig.dev.json
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula13TryCatch\bin\Debug\netcoreapp3.1\Aula13TryCatch.dll
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula13TryCatch\bin\Debug\netcoreapp3.1\Aula13TryCatch.pdb
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula13TryCatch\obj\Debug\netcoreapp3.1\Aula13TryCatch.csprojAssemblyReference.cache
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula13TryCatch\obj\Debug\netcoreapp3.1\Aula13TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula13TryCatch\obj\Debug\netcoreapp3.1\Aula13TryCatch.AssemblyInfoInputs.cache
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula13TryCatch\obj\Debug\netcoreapp3.1\Aula13TryCatch.AssemblyInfo.cs
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula13TryCatch\obj\Debug\netcoreapp3.1\Aula13TryCatch.dll
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula13TryCatch\obj\Debug\netcoreapp3.1\Aula13TryCatch.pdb
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula13TryCatch\obj\Debug\netcoreapp3.1\Aula13TryCatch.genruntimeconfig.cache

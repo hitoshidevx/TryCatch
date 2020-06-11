@@ -6,7 +6,8 @@ namespace Aula13TryCatch
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Error acc = new Error();
+            acc.Authorize();
         }
     }
 }
